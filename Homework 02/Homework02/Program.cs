@@ -48,7 +48,10 @@ Console.WriteLine("Input number1");
 int inputNumber1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Input number 2");
 int inputNumber2 = int.Parse(Console.ReadLine());
-string result1 = ($"First number is:{inputNumber2} Second number is: {inputNumber1}");
+int tempValueHolder = inputNumber1;
+inputNumber1 = inputNumber2;
+inputNumber2 = tempValueHolder;
+string result1 = ($"First number is:{inputNumber1} Second number is: {inputNumber2}");
 Console.WriteLine(result1);
 Console.ReadLine();
 
