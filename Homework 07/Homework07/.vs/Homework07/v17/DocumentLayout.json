@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elena\\Desktop\\Homeworks C#\\Homeworks-C-Sharp\\Homework 07\\Homework07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AB26C1-41E4-4B3B-99CE-6B277D98819E}|Homework07\\Homework07.csproj|c:\\users\\elena\\desktop\\homeworks c#\\homeworks-c-sharp\\homework 07\\homework07\\homework07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AB26C1-41E4-4B3B-99CE-6B277D98819E}|Homework07\\Homework07.csproj|solutionrelative:homework07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AB26C1-41E4-4B3B-99CE-6B277D98819E}|Homework07\\Homework07.csproj|c:\\users\\elena\\desktop\\homeworks c#\\homeworks-c-sharp\\homework 07\\homework07\\homework07\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AB26C1-41E4-4B3B-99CE-6B277D98819E}|Homework07\\Homework07.csproj|solutionrelative:homework07\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C#\\Homeworks-C-Sharp\\Homework 07\\Homework07\\Homework07\\Number.cs",
+              "RelativeDocumentMoniker": "Homework07\\Number.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C#\\Homeworks-C-Sharp\\Homework 07\\Homework07\\Homework07\\Number.cs",
+              "RelativeToolTip": "Homework07\\Number.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:57:29.564Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elena\\Desktop\\Homeworks C#\\Homeworks-C-Sharp\\Homework 07\\Homework07\\Homework07\\Program.cs",
+              "RelativeDocumentMoniker": "Homework07\\Program.cs",
+              "ToolTip": "C:\\Users\\Elena\\Desktop\\Homeworks C#\\Homeworks-C-Sharp\\Homework 07\\Homework07\\Homework07\\Program.cs",
+              "RelativeToolTip": "Homework07\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:43:06.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
